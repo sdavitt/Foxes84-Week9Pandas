@@ -1,0 +1,440 @@
+,customer_id,renewal_nbr,term_in_years,tenure,age,age_group,loyalty_status
+0,1366,0,1.0,0.0,47,Adult,new
+1,1409,0,1.0,0.0,55,Adult,new
+2,1307,2,1.0,2.0,69,Senior,new
+3,1403,6,0.5,3.0,25,Young Adult,new
+4,1482,9,0.5,4.5,41,Adult,loyal
+5,1039,1,1.0,1.0,50,Adult,new
+6,1369,1,0.5,0.5,66,Senior,new
+7,1236,1,1.0,1.0,74,Senior,new
+8,1060,5,0.5,2.5,47,Adult,new
+9,1414,1,1.0,1.0,20,Young Adult,new
+10,1072,1,0.5,0.5,47,Adult,new
+11,1209,9,0.5,4.5,27,Young Adult,new
+12,1186,1,1.0,1.0,28,Young Adult,new
+13,1130,3,0.5,1.5,48,Adult,new
+14,1282,5,0.5,2.5,24,Young Adult,new
+15,1340,8,0.5,4.0,54,Adult,loyal
+16,1373,6,1.0,6.0,47,Adult,loyal
+17,1051,7,0.5,3.5,41,Adult,new
+18,1159,5,1.0,5.0,63,Adult,loyal
+19,1379,1,0.5,0.5,51,Adult,new
+20,1458,0,1.0,0.0,24,Young Adult,new
+21,1102,4,1.0,4.0,53,Adult,loyal
+22,1110,6,1.0,6.0,49,Adult,loyal
+23,1128,5,1.0,5.0,26,Young Adult,new
+24,1226,9,0.5,4.5,77,Senior,loyal
+25,1044,7,0.5,3.5,79,Senior,loyal
+26,1187,4,1.0,4.0,64,Adult,loyal
+27,1459,5,0.5,2.5,21,Young Adult,new
+28,1456,9,0.5,4.5,68,Senior,loyal
+29,1032,1,1.0,1.0,24,Young Adult,new
+30,1152,1,0.5,0.5,51,Adult,new
+31,1439,0,1.0,0.0,74,Senior,new
+32,1385,8,1.0,8.0,46,Adult,loyal
+33,1228,7,1.0,7.0,25,Young Adult,loyal
+34,1054,8,1.0,8.0,58,Adult,loyal
+35,1330,4,0.5,2.0,43,Adult,new
+36,1223,2,1.0,2.0,76,Senior,loyal
+37,1489,9,0.5,4.5,73,Senior,loyal
+38,1256,8,0.5,4.0,48,Adult,loyal
+39,1455,2,1.0,2.0,58,Adult,new
+40,1026,5,1.0,5.0,55,Adult,loyal
+41,1071,4,1.0,4.0,59,Adult,loyal
+42,1295,5,1.0,5.0,54,Adult,loyal
+43,1278,7,0.5,3.5,29,Young Adult,new
+44,1137,4,0.5,2.0,66,Senior,new
+45,1082,1,0.5,0.5,29,Young Adult,new
+46,1241,4,0.5,2.0,79,Senior,loyal
+47,1391,7,1.0,7.0,57,Adult,loyal
+48,1242,2,0.5,1.0,37,Adult,new
+49,1442,1,1.0,1.0,59,Adult,new
+50,1193,5,0.5,2.5,73,Senior,loyal
+51,1390,0,1.0,0.0,38,Adult,new
+52,1017,5,1.0,5.0,29,Young Adult,new
+53,1199,6,0.5,3.0,68,Senior,loyal
+54,1342,2,1.0,2.0,22,Young Adult,new
+55,1334,9,0.5,4.5,37,Adult,loyal
+56,1216,5,0.5,2.5,76,Senior,loyal
+57,1016,2,0.5,1.0,55,Adult,new
+58,1191,2,0.5,1.0,48,Adult,new
+59,1405,1,0.5,0.5,54,Adult,new
+60,1104,1,0.5,0.5,21,Young Adult,new
+61,1371,5,1.0,5.0,44,Adult,loyal
+62,1162,0,0.5,0.0,23,Young Adult,new
+63,1470,9,1.0,9.0,75,Senior,loyal
+64,1254,6,0.5,3.0,41,Adult,new
+65,1328,9,0.5,4.5,35,Adult,loyal
+66,1431,7,0.5,3.5,38,Adult,new
+67,1274,5,0.5,2.5,41,Adult,new
+68,1064,7,1.0,7.0,27,Young Adult,loyal
+69,1429,9,0.5,4.5,50,Adult,loyal
+70,1214,1,1.0,1.0,54,Adult,new
+71,1480,2,1.0,2.0,67,Senior,new
+72,1147,1,1.0,1.0,23,Young Adult,new
+73,1466,8,0.5,4.0,28,Young Adult,new
+74,1499,9,0.5,4.5,53,Adult,loyal
+75,1392,1,0.5,0.5,45,Adult,new
+76,1481,4,0.5,2.0,21,Young Adult,new
+77,1311,1,0.5,0.5,20,Young Adult,new
+78,1117,7,1.0,7.0,36,Adult,loyal
+79,1148,7,1.0,7.0,47,Adult,loyal
+80,1037,7,1.0,7.0,77,Senior,loyal
+81,1000,5,0.5,2.5,52,Adult,new
+82,1068,8,1.0,8.0,30,Young Adult,loyal
+83,1292,5,1.0,5.0,77,Senior,loyal
+84,1145,3,0.5,1.5,43,Adult,new
+85,1078,9,0.5,4.5,61,Adult,loyal
+86,1402,2,0.5,1.0,78,Senior,new
+87,1002,6,1.0,6.0,78,Senior,loyal
+88,1091,8,0.5,4.0,26,Young Adult,new
+89,1404,0,0.5,0.0,67,Senior,new
+90,1065,4,0.5,2.0,31,Young Adult,new
+91,1400,0,1.0,0.0,21,Young Adult,new
+92,1370,3,1.0,3.0,25,Young Adult,new
+93,1428,1,1.0,1.0,65,Senior,new
+94,1190,7,1.0,7.0,44,Adult,loyal
+95,1144,1,0.5,0.5,70,Senior,new
+96,1107,1,1.0,1.0,59,Adult,new
+97,1206,6,0.5,3.0,64,Adult,loyal
+98,1030,6,0.5,3.0,18,Teenager,new
+99,1441,3,1.0,3.0,68,Senior,loyal
+100,1169,6,1.0,6.0,39,Adult,loyal
+101,1019,4,1.0,4.0,60,Adult,loyal
+102,1449,5,1.0,5.0,31,Young Adult,loyal
+103,1252,8,0.5,4.0,52,Adult,loyal
+104,1447,5,1.0,5.0,60,Adult,loyal
+105,1094,4,0.5,2.0,18,Teenager,new
+106,1352,1,0.5,0.5,64,Adult,new
+107,1009,3,1.0,3.0,51,Adult,loyal
+108,1100,0,0.5,0.0,71,Senior,new
+109,1086,1,1.0,1.0,62,Adult,new
+110,1313,0,1.0,0.0,79,Senior,new
+111,1412,8,0.5,4.0,33,Young Adult,new
+112,1457,5,0.5,2.5,65,Senior,loyal
+113,1472,1,0.5,0.5,79,Senior,new
+114,1119,1,0.5,0.5,50,Adult,new
+115,1276,9,1.0,9.0,75,Senior,loyal
+116,1490,5,1.0,5.0,60,Adult,loyal
+117,1005,4,0.5,2.0,18,Teenager,new
+118,1272,5,0.5,2.5,48,Adult,new
+119,1469,7,1.0,7.0,63,Adult,loyal
+120,1073,8,0.5,4.0,59,Adult,loyal
+121,1013,2,1.0,2.0,32,Young Adult,new
+122,1257,3,0.5,1.5,27,Young Adult,new
+123,1268,8,0.5,4.0,58,Adult,loyal
+124,1041,0,0.5,0.0,43,Adult,new
+125,1419,4,0.5,2.0,73,Senior,new
+126,1495,6,1.0,6.0,72,Senior,loyal
+127,1160,0,0.5,0.0,18,Teenager,new
+128,1387,8,0.5,4.0,42,Adult,loyal
+129,1006,0,0.5,0.0,73,Senior,new
+130,1151,4,0.5,2.0,47,Adult,new
+131,1473,7,1.0,7.0,34,Young Adult,loyal
+132,1255,8,1.0,8.0,58,Adult,loyal
+133,1497,8,1.0,8.0,55,Adult,loyal
+134,1215,6,0.5,3.0,30,Young Adult,new
+135,1284,8,0.5,4.0,39,Adult,loyal
+136,1057,6,1.0,6.0,57,Adult,loyal
+137,1300,8,0.5,4.0,65,Senior,loyal
+138,1171,1,1.0,1.0,79,Senior,new
+139,1304,7,0.5,3.5,47,Adult,loyal
+140,1103,7,0.5,3.5,42,Adult,new
+141,1076,2,0.5,1.0,47,Adult,new
+142,1174,2,1.0,2.0,21,Young Adult,new
+143,1483,6,1.0,6.0,31,Young Adult,loyal
+144,1302,8,0.5,4.0,22,Young Adult,new
+145,1008,7,1.0,7.0,63,Adult,loyal
+146,1020,5,1.0,5.0,69,Senior,loyal
+147,1468,3,0.5,1.5,71,Senior,new
+148,1318,4,0.5,2.0,52,Adult,new
+149,1115,2,1.0,2.0,55,Adult,new
+150,1224,9,0.5,4.5,79,Senior,loyal
+151,1463,6,0.5,3.0,39,Adult,new
+152,1344,3,0.5,1.5,67,Senior,new
+153,1347,0,0.5,0.0,22,Young Adult,new
+154,1333,9,0.5,4.5,63,Adult,loyal
+155,1093,8,0.5,4.0,69,Senior,loyal
+156,1337,6,1.0,6.0,55,Adult,loyal
+157,1173,2,0.5,1.0,54,Adult,new
+158,1189,4,0.5,2.0,33,Young Adult,new
+159,1327,1,1.0,1.0,69,Senior,new
+160,1438,7,1.0,7.0,62,Adult,loyal
+161,1376,5,0.5,2.5,73,Senior,loyal
+162,1323,3,1.0,3.0,79,Senior,loyal
+163,1034,8,1.0,8.0,60,Adult,loyal
+164,1361,5,1.0,5.0,68,Senior,loyal
+165,1204,1,1.0,1.0,33,Young Adult,new
+166,1464,1,1.0,1.0,20,Young Adult,new
+167,1270,4,0.5,2.0,19,Teenager,new
+168,1012,5,1.0,5.0,76,Senior,loyal
+169,1168,6,1.0,6.0,41,Adult,loyal
+170,1074,2,1.0,2.0,25,Young Adult,new
+171,1308,6,0.5,3.0,35,Adult,new
+172,1088,9,0.5,4.5,79,Senior,loyal
+173,1219,7,1.0,7.0,46,Adult,loyal
+174,1027,5,0.5,2.5,35,Adult,new
+175,1467,5,0.5,2.5,48,Adult,new
+176,1310,8,1.0,8.0,42,Adult,loyal
+177,1018,4,0.5,2.0,31,Young Adult,new
+178,1109,7,1.0,7.0,50,Adult,loyal
+179,1046,8,1.0,8.0,27,Young Adult,loyal
+180,1399,0,0.5,0.0,57,Adult,new
+181,1087,6,0.5,3.0,79,Senior,loyal
+182,1185,2,0.5,1.0,60,Adult,new
+183,1007,0,1.0,0.0,56,Adult,new
+184,1279,2,1.0,2.0,77,Senior,loyal
+185,1382,9,1.0,9.0,37,Adult,loyal
+186,1350,6,0.5,3.0,55,Adult,loyal
+187,1432,7,1.0,7.0,47,Adult,loyal
+188,1143,5,1.0,5.0,53,Adult,loyal
+189,1123,2,0.5,1.0,56,Adult,new
+190,1315,7,0.5,3.5,20,Young Adult,new
+191,1195,7,1.0,7.0,65,Senior,loyal
+192,1461,8,1.0,8.0,22,Young Adult,loyal
+193,1070,3,0.5,1.5,29,Young Adult,new
+194,1445,0,0.5,0.0,37,Adult,new
+195,1484,8,0.5,4.0,57,Adult,loyal
+196,1339,0,1.0,0.0,50,Adult,new
+197,1421,5,1.0,5.0,50,Adult,loyal
+198,1061,6,0.5,3.0,76,Senior,loyal
+199,1183,4,0.5,2.0,38,Adult,new
+200,1493,6,1.0,6.0,79,Senior,loyal
+201,1056,0,0.5,0.0,55,Adult,new
+202,1372,9,0.5,4.5,26,Young Adult,new
+203,1010,5,0.5,2.5,65,Senior,loyal
+204,1136,0,1.0,0.0,40,Adult,new
+205,1360,5,1.0,5.0,72,Senior,loyal
+206,1381,9,0.5,4.5,48,Adult,loyal
+207,1485,9,0.5,4.5,71,Senior,loyal
+208,1085,0,0.5,0.0,34,Young Adult,new
+209,1322,3,0.5,1.5,64,Adult,new
+210,1156,6,0.5,3.0,39,Adult,new
+211,1398,5,1.0,5.0,58,Adult,loyal
+212,1383,0,1.0,0.0,58,Adult,new
+213,1081,6,1.0,6.0,52,Adult,loyal
+214,1243,3,0.5,1.5,65,Senior,new
+215,1067,1,0.5,0.5,58,Adult,new
+216,1443,3,0.5,1.5,28,Young Adult,new
+217,1188,5,1.0,5.0,32,Young Adult,loyal
+218,1265,3,1.0,3.0,63,Adult,loyal
+219,1384,0,1.0,0.0,69,Senior,new
+220,1239,2,0.5,1.0,74,Senior,new
+221,1393,8,1.0,8.0,31,Young Adult,loyal
+222,1098,9,0.5,4.5,32,Young Adult,new
+223,1232,3,1.0,3.0,19,Teenager,new
+224,1394,4,0.5,2.0,52,Adult,new
+225,1320,8,0.5,4.0,42,Adult,loyal
+226,1290,4,1.0,4.0,44,Adult,loyal
+227,1146,0,0.5,0.0,44,Adult,new
+228,1083,0,1.0,0.0,64,Adult,new
+229,1312,4,1.0,4.0,54,Adult,loyal
+230,1496,4,0.5,2.0,44,Adult,new
+231,1266,4,0.5,2.0,24,Young Adult,new
+232,1127,1,0.5,0.5,44,Adult,new
+233,1033,1,0.5,0.5,59,Adult,new
+234,1368,2,0.5,1.0,54,Adult,new
+235,1179,2,1.0,2.0,25,Young Adult,new
+236,1050,1,1.0,1.0,27,Young Adult,new
+237,1053,0,1.0,0.0,34,Young Adult,new
+238,1029,2,0.5,1.0,61,Adult,new
+239,1356,7,0.5,3.5,73,Senior,loyal
+240,1260,9,1.0,9.0,34,Young Adult,loyal
+241,1413,0,1.0,0.0,53,Adult,new
+242,1297,8,1.0,8.0,68,Senior,loyal
+243,1321,3,0.5,1.5,77,Senior,new
+244,1478,6,1.0,6.0,73,Senior,loyal
+245,1345,1,1.0,1.0,72,Senior,new
+246,1245,9,1.0,9.0,68,Senior,loyal
+247,1075,6,1.0,6.0,57,Adult,loyal
+248,1220,1,0.5,0.5,72,Senior,new
+249,1096,9,1.0,9.0,20,Young Adult,loyal
+250,1422,5,1.0,5.0,79,Senior,loyal
+251,1133,8,1.0,8.0,78,Senior,loyal
+252,1454,8,1.0,8.0,69,Senior,loyal
+253,1023,6,1.0,6.0,26,Young Adult,loyal
+254,1324,5,1.0,5.0,51,Adult,loyal
+255,1014,2,0.5,1.0,63,Adult,new
+256,1358,7,0.5,3.5,40,Adult,new
+257,1230,8,1.0,8.0,40,Adult,loyal
+258,1374,9,0.5,4.5,28,Young Adult,new
+259,1427,5,1.0,5.0,27,Young Adult,new
+260,1138,6,0.5,3.0,32,Young Adult,new
+261,1249,3,0.5,1.5,27,Young Adult,new
+262,1271,9,0.5,4.5,41,Adult,loyal
+263,1363,0,1.0,0.0,71,Senior,new
+264,1155,5,1.0,5.0,28,Young Adult,new
+265,1116,8,1.0,8.0,46,Adult,loyal
+266,1362,5,1.0,5.0,69,Senior,loyal
+267,1250,5,0.5,2.5,78,Senior,loyal
+268,1202,1,0.5,0.5,34,Young Adult,new
+269,1176,5,1.0,5.0,22,Young Adult,new
+270,1192,0,1.0,0.0,66,Senior,new
+271,1165,3,1.0,3.0,29,Young Adult,new
+272,1235,3,1.0,3.0,59,Adult,loyal
+273,1205,6,1.0,6.0,56,Adult,loyal
+274,1298,2,0.5,1.0,51,Adult,new
+275,1262,1,0.5,0.5,39,Adult,new
+276,1281,9,1.0,9.0,23,Young Adult,loyal
+277,1180,0,0.5,0.0,23,Young Adult,new
+278,1149,4,1.0,4.0,29,Young Adult,new
+279,1077,0,1.0,0.0,66,Senior,new
+280,1066,0,0.5,0.0,50,Adult,new
+281,1015,3,1.0,3.0,46,Adult,new
+282,1024,4,0.5,2.0,33,Young Adult,new
+283,1329,1,1.0,1.0,63,Adult,new
+284,1267,6,1.0,6.0,57,Adult,loyal
+285,1043,4,0.5,2.0,79,Senior,loyal
+286,1011,8,1.0,8.0,43,Adult,loyal
+287,1106,5,1.0,5.0,69,Senior,loyal
+288,1047,1,0.5,0.5,20,Young Adult,new
+289,1089,6,0.5,3.0,31,Young Adult,new
+290,1095,6,0.5,3.0,33,Young Adult,new
+291,1365,2,0.5,1.0,70,Senior,new
+292,1194,7,0.5,3.5,26,Young Adult,new
+293,1132,7,1.0,7.0,68,Senior,loyal
+294,1283,8,0.5,4.0,23,Young Adult,new
+295,1059,6,0.5,3.0,69,Senior,loyal
+296,1207,6,1.0,6.0,22,Young Adult,new
+297,1211,3,1.0,3.0,45,Adult,new
+298,1031,5,0.5,2.5,46,Adult,new
+299,1378,5,1.0,5.0,67,Senior,loyal
+300,1491,8,0.5,4.0,37,Adult,new
+301,1269,9,1.0,9.0,28,Young Adult,loyal
+302,1349,7,0.5,3.5,30,Young Adult,new
+303,1222,4,1.0,4.0,39,Adult,loyal
+304,1264,0,0.5,0.0,47,Adult,new
+305,1408,2,1.0,2.0,75,Senior,new
+306,1426,7,0.5,3.5,55,Adult,loyal
+307,1346,8,1.0,8.0,22,Young Adult,loyal
+308,1486,8,1.0,8.0,33,Young Adult,loyal
+309,1396,6,0.5,3.0,28,Young Adult,new
+310,1424,3,1.0,3.0,37,Adult,new
+311,1435,9,0.5,4.5,54,Adult,loyal
+312,1498,5,0.5,2.5,28,Young Adult,new
+313,1213,9,1.0,9.0,35,Adult,loyal
+314,1048,6,0.5,3.0,55,Adult,loyal
+315,1231,4,0.5,2.0,56,Adult,new
+316,1294,8,0.5,4.0,45,Adult,loyal
+317,1036,3,0.5,1.5,46,Adult,new
+318,1434,2,0.5,1.0,25,Young Adult,new
+319,1135,5,1.0,5.0,64,Adult,loyal
+320,1022,0,1.0,0.0,56,Adult,new
+321,1325,5,0.5,2.5,43,Adult,new
+322,1377,2,1.0,2.0,33,Young Adult,new
+323,1479,9,1.0,9.0,24,Young Adult,loyal
+324,1418,0,0.5,0.0,74,Senior,new
+325,1248,4,0.5,2.0,72,Senior,new
+326,1430,8,0.5,4.0,23,Young Adult,new
+327,1386,3,0.5,1.5,59,Adult,new
+328,1453,1,1.0,1.0,30,Young Adult,new
+329,1221,4,1.0,4.0,56,Adult,loyal
+330,1167,8,0.5,4.0,72,Senior,loyal
+331,1212,3,1.0,3.0,52,Adult,loyal
+332,1038,2,0.5,1.0,71,Senior,new
+333,1097,7,1.0,7.0,44,Adult,loyal
+334,1423,6,1.0,6.0,28,Young Adult,loyal
+335,1314,1,0.5,0.5,35,Adult,new
+336,1210,8,0.5,4.0,26,Young Adult,new
+337,1357,8,0.5,4.0,40,Adult,loyal
+338,1040,4,1.0,4.0,49,Adult,loyal
+339,1141,5,1.0,5.0,24,Young Adult,new
+340,1063,6,0.5,3.0,46,Adult,new
+341,1335,6,0.5,3.0,57,Adult,loyal
+342,1351,0,0.5,0.0,24,Young Adult,new
+343,1225,7,0.5,3.5,21,Young Adult,new
+344,1263,2,0.5,1.0,66,Senior,new
+345,1336,4,1.0,4.0,70,Senior,loyal
+346,1197,7,0.5,3.5,78,Senior,loyal
+347,1161,2,1.0,2.0,53,Adult,new
+348,1471,8,1.0,8.0,59,Adult,loyal
+349,1273,8,0.5,4.0,20,Young Adult,new
+350,1397,0,0.5,0.0,73,Senior,new
+351,1131,1,1.0,1.0,25,Young Adult,new
+352,1492,0,0.5,0.0,52,Adult,new
+353,1170,3,0.5,1.5,73,Senior,new
+354,1380,5,1.0,5.0,37,Adult,loyal
+355,1417,7,0.5,3.5,69,Senior,loyal
+356,1099,7,1.0,7.0,70,Senior,loyal
+357,1246,9,1.0,9.0,74,Senior,loyal
+358,1084,3,1.0,3.0,18,Teenager,new
+359,1444,5,1.0,5.0,65,Senior,loyal
+360,1353,4,0.5,2.0,33,Young Adult,new
+361,1326,6,1.0,6.0,69,Senior,loyal
+362,1203,1,1.0,1.0,65,Senior,new
+363,1196,8,1.0,8.0,38,Adult,loyal
+364,1154,4,1.0,4.0,71,Senior,loyal
+365,1166,7,0.5,3.5,51,Adult,loyal
+366,1487,6,0.5,3.0,53,Adult,loyal
+367,1139,7,1.0,7.0,52,Adult,loyal
+368,1448,7,0.5,3.5,47,Adult,loyal
+369,1105,9,1.0,9.0,38,Adult,loyal
+370,1364,0,0.5,0.0,27,Young Adult,new
+371,1395,6,0.5,3.0,75,Senior,loyal
+372,1316,0,0.5,0.0,72,Senior,new
+373,1259,8,0.5,4.0,78,Senior,loyal
+374,1452,7,0.5,3.5,65,Senior,loyal
+375,1003,7,1.0,7.0,77,Senior,loyal
+376,1201,8,0.5,4.0,72,Senior,loyal
+377,1120,0,0.5,0.0,64,Adult,new
+378,1354,5,0.5,2.5,58,Adult,new
+379,1069,5,1.0,5.0,54,Adult,loyal
+380,1177,0,1.0,0.0,41,Adult,new
+381,1113,0,0.5,0.0,53,Adult,new
+382,1114,6,1.0,6.0,22,Young Adult,new
+383,1433,4,0.5,2.0,33,Young Adult,new
+384,1425,7,1.0,7.0,18,Teenager,new
+385,1025,8,0.5,4.0,67,Senior,loyal
+386,1233,2,0.5,1.0,56,Adult,new
+387,1244,4,0.5,2.0,59,Adult,new
+388,1237,5,1.0,5.0,73,Senior,loyal
+389,1436,5,0.5,2.5,41,Adult,new
+390,1275,1,1.0,1.0,73,Senior,new
+391,1460,8,1.0,8.0,27,Young Adult,loyal
+392,1338,6,1.0,6.0,75,Senior,loyal
+393,1288,3,0.5,1.5,29,Young Adult,new
+394,1124,1,1.0,1.0,47,Adult,new
+395,1293,7,1.0,7.0,77,Senior,loyal
+396,1142,6,1.0,6.0,77,Senior,loyal
+397,1118,3,1.0,3.0,63,Adult,loyal
+398,1208,6,0.5,3.0,32,Young Adult,new
+399,1121,6,0.5,3.0,23,Young Adult,new
+400,1129,0,0.5,0.0,43,Adult,new
+401,1182,0,0.5,0.0,79,Senior,new
+402,1285,7,0.5,3.5,74,Senior,loyal
+403,1299,1,1.0,1.0,72,Senior,new
+404,1240,6,1.0,6.0,50,Adult,loyal
+405,1247,7,1.0,7.0,64,Adult,loyal
+406,1451,1,0.5,0.5,26,Young Adult,new
+407,1055,0,1.0,0.0,69,Senior,new
+408,1157,7,0.5,3.5,28,Young Adult,new
+409,1476,8,0.5,4.0,47,Adult,loyal
+410,1474,9,0.5,4.5,68,Senior,loyal
+411,1317,5,1.0,5.0,43,Adult,loyal
+412,1367,2,1.0,2.0,26,Young Adult,new
+413,1218,4,0.5,2.0,42,Adult,new
+414,1291,3,1.0,3.0,69,Senior,loyal
+415,1437,6,1.0,6.0,53,Adult,loyal
+416,1052,7,0.5,3.5,73,Senior,loyal
+417,1277,1,1.0,1.0,55,Adult,new
+418,1045,5,1.0,5.0,18,Teenager,new
+419,1331,2,0.5,1.0,42,Adult,new
+420,1198,1,1.0,1.0,65,Senior,new
+421,1111,1,1.0,1.0,51,Adult,new
+422,1287,5,0.5,2.5,63,Adult,loyal
+423,1178,1,0.5,0.5,50,Adult,new
+424,1348,6,1.0,6.0,70,Senior,loyal
+425,1375,3,0.5,1.5,74,Senior,new
+426,1440,8,0.5,4.0,46,Adult,loyal
+427,1296,5,1.0,5.0,43,Adult,loyal
+428,1058,3,0.5,1.5,33,Young Adult,new
+429,1004,6,1.0,6.0,68,Senior,loyal
+430,1280,1,0.5,0.5,41,Adult,new
+431,1172,6,1.0,6.0,26,Young Adult,loyal
+432,1042,5,0.5,2.5,24,Young Adult,new
+433,1465,7,0.5,3.5,78,Senior,loyal
+434,1238,0,1.0,0.0,64,Adult,new
+435,1125,4,0.5,2.0,49,Adult,new
+436,1415,6,1.0,6.0,32,Young Adult,loyal
+437,1359,4,1.0,4.0,43,Adult,loyal
+438,1286,0,0.5,0.0,56,Adult,new
